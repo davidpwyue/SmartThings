@@ -1,6 +1,6 @@
 /**
  *  Aeotec Siren 6 v1.1.3
- *  (Model: ZW164-A)
+ *  (Model: ZW164-C)
  *
  *  Author: 
  *    Kevin LaFramboise (krlaframboise)
@@ -80,7 +80,7 @@ metadata {
 		command "playText"
 		command "playSound"
 		
-		fingerprint mfr:"0371", prod:"0103", model:"00A4", deviceJoinName:"Aeotec Siren 6"
+		fingerprint mfr:"0371", prod:"0003", model:"00A4", deviceJoinName:"Aeotec Siren 6"
 	}
 
 	simulator { }
